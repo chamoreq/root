@@ -1,0 +1,492 @@
+if (typeof umggdpr === "undefined") {
+    var umggdpr = {};
+    console.log('-- UMG: Consent script loaded (ver 9.05)');
+    umggdpr.active = true;
+    //custom-begin
+umggdpr["ga.umusic.site"]=[1,"#ffd700","#000080","18px"];
+umggdpr["consent.umusic.com"]=[1,"","","18px"];
+umggdpr["7daysx7nights.com"]=[1,"#ffffff","#13688e",""];
+umggdpr["wilkojohnsonblowyourmind.com"]=[1,"#ffffff","#000000",""];
+umggdpr["dolceduello.com"]=[1,"#ffffff","#337ab7",""];
+umggdpr["heysalen.com"]=[1,"#ffffff","#ffbfff",""];
+umggdpr["nashvillegreatesthits.co.uk"]=[1,"","#e8a725",""];
+umggdpr["7daysx7nights.stage-umg-uk-wp.com"]=[1,"#ffffff","#13688e",""];
+umggdpr["thewho.com"]=[1,"#535353","",""];
+umggdpr["zacsamuelmusic.com"]=[1,"#ffffff","#000000",""];
+umggdpr["queenonairradio.com"]=[1,"#ffffff","#000000",""];
+umggdpr["oneworldsleep.com"]=[1,"#ffffff","#000000",""];
+umggdpr["springkingband.com"]=[1,"#ffffff","#000000",""];
+umggdpr["ronankeating.com"]=[1,"#ffffff","#808080",""];
+umggdpr["theanarchyarias.co.uk"]=[1,"#ffffff","#808080",""];
+umggdpr["mrsanka.com"]=[1,"","#ff9fcf",""];
+umggdpr["reloadfestival.co.uk"]=[1,"#ffffff","#9b009b",""];
+umggdpr["ritual-music.com"]=[1,"#ffffff","#004080",""];
+umggdpr["notw40.queenonline.com"]=[1,"#ff0000","",""];
+umggdpr["thetideofficial.com"]=[1,"#ffff80","#000000",""];
+umggdpr["explorecrowdedhouse.com"]=[1,"#ffffff","#000000",""];
+umggdpr["rieumance.com"]=[1,"#ce0000","#efefe7",""];
+umggdpr["ambermarkmusic.com"]=[1,"#ffffff","#000000",""];
+umggdpr["weekofthewaltz.com"]=[1,"#fefcff","",""];
+umggdpr["messengerofthegods.freddiemercury.com"]=[1,"#ffffff","#000000",""];
+umggdpr["allofthehits.com"]=[1,"#ffffff","#eb548b",""];
+umggdpr["tickets.lewiscapaldi.com"]=[1,"#ffffff","#000000",""];
+umggdpr["mozart225.com"]=[1,"#ffffff","#808080",""];
+umggdpr["xmasplaylists.com"]=[1,"#ffffff","#ff0000",""];
+umggdpr["acdl-domino.co.uk"]=[1,"","#d67628",""];
+umggdpr["dreamboatsandpetticoats.com"]=[1,"#ffffff","#000000",""];
+umggdpr["weareghosted.com"]=[1,"#ffffff","#000000",""];
+umggdpr["deccapublishing.com"]=[1,"#ffffff","#000000",""];
+umggdpr["deine-stimme-fuer-santiano.de"]=[1,"#ffffff","#000000",""];
+umggdpr["dirtywknd.co.uk"]=[1,"#19c58e","#000000",""];
+umggdpr["julialezhneva.com"]=[1,"#ffffff","#000000",""];
+umggdpr["rhyslewisofficial.com"]=[1,"#024f9b","",""];
+umggdpr["beautyandthebeastost.com"]=[1,"#ffffff","#000000",""];
+umggdpr["melissaparmenter.com"]=[1,"#ffffff","#c0c0c0",""];
+umggdpr["lillyahlberg.com"]=[1,"#ffc7ac","",""];
+umggdpr["ameliawarnermusic.com"]=[1,"#d5d5d5","#000000",""];
+umggdpr["barnscourtney.com"]=[1,"#b35900","#ff8040",""];
+umggdpr["stefflondonofficial.com"]=[1,"","#fee983",""];
+umggdpr["janinejansen.com"]=[1,"#ffffff","#000000",""];
+umggdpr["themaccabees.co.uk"]=[1,"#000080","",""];
+umggdpr["thelaughingapple.catstevens.com"]=[1,"#ffffff","#000000",""];
+umggdpr["mansnothot.com"]=[1,"#fdb802","#000000",""];
+umggdpr["jackvallier.com"]=[1,"#ffffff","#000000",""];
+umggdpr["blossomsband.co.uk"]=[1,"#ffffff","#000000",""];
+umggdpr["christmaswith.frank-turner.com"]=[1,"#808080","",""];
+umggdpr["thisisblessed.com"]=[1,"#ffffff","#000000",""];
+umggdpr["singyourheartout.co.uk"]=[1,"#00ffff","#ffff97",""];
+umggdpr["thewanderinghearts.com"]=[1,"#ffffff","#00005e",""];
+umggdpr["offbloom.com"]=[1,"#ffd900","#000000",""];
+umggdpr["vangelisrosetta.com"]=[1,"#ff0080","#00ffff",""];
+umggdpr["youngrmusic.com"]=[1,"#d60c34","",""];
+umggdpr["inxsplaylister.com"]=[1,"#f20d3a","",""];
+umggdpr["inxs40.com"]=[1,"#f20d3a","",""];
+umggdpr["game.jaxjones.co.uk"]=[1,"#f20d3a","#000000",""];
+umggdpr["flytetheband.com"]=[1,"#f20d3a","",""];
+umggdpr["compilationalbum.info"]=[1,"#ffffff","#000000",""];
+umggdpr["islandsongs.is"]=[1,"#7dbf9e","",""];
+umggdpr["ardynband.co.uk"]=[1,"#0080ff","",""];
+umggdpr["jessarae.com"]=[1,"#ff8000","#000000",""];
+umggdpr["blueandlonesome.rollingstones.com"]=[1,"#0000ff","",""];
+umggdpr["andreasottensamer.com"]=[1,"#ffffff","#000000",""];
+umggdpr["milosguitar.com"]=[1,"#ffffff","#000000",""];
+umggdpr["ballandboe.com"]=[1,"#000080","",""];
+umggdpr["sundownfestival.co.uk"]=[1,"#ffff00","#00e300",""];
+umggdpr["piano-portraits.com"]=[1,"#ffffff","#000000",""];
+umggdpr["ficklefriends.co.uk"]=[1,"#f32750","#5b5bff",""];
+umggdpr["rascalsofficial.com"]=[1,"#ffff00","#000000",""];
+umggdpr["u2.redeem-now.co.uk"]=[1,"#f4d053","#000000",""];
+umggdpr["thebluenotebooks.com"]=[1,"#121212","",""];
+umggdpr["yearcoin.yearsandyears.com"]=[1,"#ffffff","#000000",""];
+umggdpr["anthemsfestival.co.uk"]=[1,"#ffffff","#000000",""];
+umggdpr["thisissigrid.com"]=[1,"#ffffff","#b5b5cc",""];
+umggdpr["marlonroudette.co.uk"]=[1,"#ffa600","#000000",""];
+umggdpr["nadine-coyle.com"]=[1,"#ff59ac","",""];
+umggdpr["standards.seal.com"]=[1,"#ffffff","#000000",""];
+umggdpr["azusena.co.uk"]=[1,"#f54568","#000000",""];
+umggdpr["totpmusic.com"]=[1,"#79aefd","#ff0683",""];
+umggdpr["olifox.com"]=[1,"#ffffff","#000000",""];
+umggdpr["jonasblue.com"]=[1,"#0093d9","",""];
+umggdpr["makeyourown.jaxjones.co.uk"]=[1,"#b40809","#000000",""];
+umggdpr["newhopeclub.com"]=[1,"#ffffff","#76aec5",""];
+umggdpr["adamfrench.co.uk"]=[1,"","#fab301",""];
+umggdpr["the1975.com"]=[1,"#ffffff","#000000",""];
+umggdpr["beaudermott.com"]=[1,"#95a8ba","#dce4e6",""];
+umggdpr["accidentallyonpurpose.theshiresmusic.com"]=[1,"#cccccc","",""];
+umggdpr["mikeoldfieldofficial.com"]=[1,"#808080","#f39323",""];
+umggdpr["bemorekind.frank-turner.com"]=[1,"#ffffff","#000000",""];
+umggdpr["yourpostmalonename.com"]=[1,"#fee63c","#000000",""];
+umggdpr["keanemusic.com"]=[1,"#ffffff","#f8bf05",""];
+umggdpr["lovesongs.dreamboatsandpetticoats.com"]=[1,"#ffffff","#a22631",""];
+umggdpr["thisisangel.com"]=[1,"#ffffff","#000000",""];
+umggdpr["entervaults.com"]=[1,"#c6ced0","",""];
+umggdpr["gangly.is"]=[1,"#ffffff","#000000",""];
+umggdpr["elancatrinparry.com"]=[1,"#ffffff","#3b1520",""];
+umggdpr["georgemaple.com"]=[1,"#ffffff","#000000",""];
+umggdpr["otherpeoplesheartache.com"]=[1,"#6f354e","#000000",""];
+umggdpr["emiarchivetrust.org"]=[1,"#f20d3a","",""];
+umggdpr["u2ieliveinparissuperdeluxe.u2.com"]=[1,"#ffffff","#000000",""];
+umggdpr["wretch32.com"]=[1,"#3dc2fd","#cd0136",""];
+umggdpr["stepintochristmas.eltonjohn.com"]=[1,"#ffffff","#f20d3a",""];
+umggdpr["bulletformyvalentine.com"]=[1,"#ffffff","#020403",""];
+umggdpr["gilliganmoss.com"]=[1,"#d5cf0d","#000000",""];
+umggdpr["pumarosamusic.com"]=[1,"#f03415","",""];
+umggdpr["girlimusic.com"]=[1,"#ffffff","#d433fc",""];
+umggdpr["hardycaprio.co"]=[1,"#ffffff","#000000",""];
+umggdpr["glokmusic.com"]=[1,"#ffffff","#000000",""];
+umggdpr["onenight.cedricgervais.com"]=[1,"#ffffff","#000000",""];
+umggdpr["raye-music.com"]=[1,"#e8e861","#d4433d",""];
+umggdpr["libretti.deccaclassics.com"]=[1,"#ffffff","#f20d3a",""];
+umggdpr["candlelightrecords.co.uk"]=[1,"#ffffff","#22241f",""];
+umggdpr["unahealy.com"]=[1,"#fec35a","",""];
+umggdpr["dizzeerascal.co.uk"]=[1,"#fdd126","#000000",""];
+umggdpr["iamnewmachine.com"]=[1,"#ffffff","#000000",""];
+umggdpr["tomchaplinmusic.com"]=[1,"#dbbc5a","#000000",""];
+umggdpr["carpentersconnections.com"]=[1,"#e3bb7c","#190606",""];
+umggdpr["marcalmondbox.com"]=[1,"#95744d","#000000",""];
+umggdpr["friendlyfires.co.uk"]=[1,"#ffffff","#3f51ae",""];
+umggdpr["allican-do.com"]=[1,"#e56c86","#ac1f51",""];
+umggdpr["loiseau-lyre.co.uk"]=[1,"#acd1c2","#000000",""];
+umggdpr["gregoryporter.com"]=[1,"#f2e8e8","#7a1313",""];
+umggdpr["thejamofficial.com"]=[1,"#ffffff","#ad1c21",""];
+umggdpr["classicallychilled.com"]=[1,"","#40bdd0",""];
+umggdpr["jamiewoon.com"]=[1,"#444444","",""];
+umggdpr["sappyscurry.com"]=[1,"#e2e2e2","#172d45",""];
+umggdpr["michaelkiwanuka.com"]=[1,"#181818","#c2c2c2",""];
+umggdpr["mtdesolation.co.uk"]=[1,"#ffffff","#581236",""];
+umggdpr["deccawales.com"]=[1,"#00ab3a","#d21034",""];
+umggdpr["sleepbettersounds.com"]=[1,"","#0075be",""];
+umggdpr["iamlionofficial.com"]=[1,"#ffffff","#000000",""];
+umggdpr["bmukc2c.com"]=[1,"#ffffff","#000000",""];
+umggdpr["scarlxrd.com"]=[1,"#cccccc","#000000",""];
+umggdpr["madloveday.com"]=[1,"#ffffff","#000000",""];
+umggdpr["snowpatrol.com"]=[1,"#ffffff","#000000",""];
+umggdpr["georgeharrisonvinylcollection.com"]=[1,"#ffffff","#6a1a32",""];
+umggdpr["trystantenor.com"]=[1,"#ffffff","#0d230d",""];
+umggdpr["aroundtheworld.defleppard.com"]=[1,"#ffffff","#212121",""];
+umggdpr["lilymoore.co.uk"]=[1,"#ffffff","#f4af70",""];
+umggdpr["nakedelephantband.com"]=[1,"#ffffff","#000000",""];
+umggdpr["alfie-boe.com"]=[1,"#faedce","#000000",""];
+umggdpr["aquilomusic.com"]=[1,"","#cfe3e4",""];
+umggdpr["aquaofficial.com"]=[1,"","#00b4f1",""];
+umggdpr["bombaybicycleclubmusic.com"]=[1,"#004736","#ffb40f",""];
+umggdpr["jamesblakemusic.com"]=[1,"#ffffff","#000000",""];
+umggdpr["ceciliabartolionline.com"]=[1,"#ffffff","#000000",""];
+umggdpr["decca.com"]=[1,"#ffffff","#000000",""];
+umggdpr["deccasync.com"]=[1,"#ffffff","#000000",""];
+umggdpr["disclosureofficial.com"]=[1,"#e36d3f","#37449a",""];
+umggdpr["dukedumont.com"]=[1,"#ab0c10","",""];
+umggdpr["ellaeyre.com"]=[1,"#f5b1ac","#000000",""];
+umggdpr["elliegoulding.com"]=[1,"#b4d6da","#a89366",""];
+umggdpr["thelongroad.com"]=[1,"#ffffff","#454767",""];
+umggdpr["fekkyofficial.com"]=[1,"#ffffff","#000000",""];
+umggdpr["abcmartinfry.com"]=[1,"","#aa2330",""];
+umggdpr["festerskank.com"]=[1,"#fefefe","#e20000",""];
+umggdpr["fictionrecords.co.uk"]=[1,"#ffffff","#ff315f",""];
+umggdpr["arjunofficial.com"]=[1,"","#ea8d50",""];
+umggdpr["frank-turner.com"]=[1,"#f2f2f2","#9e2723",""];
+umggdpr["fryars.co.uk"]=[1,"#eb9429","#000000",""];
+umggdpr["gazcoombes.com"]=[1,"#fd68af","#3bb79c",""];
+umggdpr["glassanimals.eu"]=[1,"#e14d14","#f7bd6b",""];
+umggdpr["gunofficial.co.uk"]=[1,"#d0c635","#000000",""];
+umggdpr["florenceandthemachine.net"]=[1,"#95803d","#fefaee",""];
+umggdpr["johnnewman.co.uk"]=[1,"#04d3ff","#09112e",""];
+umggdpr["ohwondermusic.com"]=[1,"#32a3a8","#000000",""];
+umggdpr["randomacts.frank-turner.com"]=[1,"","#fbd8be",""];
+umggdpr["aurora-music.com"]=[1,"#ffffff","#d1e0e7",""];
+umggdpr["emelisande.com"]=[1,"#ffffff","#000000",""];
+umggdpr["ericprydz.tv"]=[1,"#00ffc6","#000000",""];
+umggdpr["mumfordandsons.com"]=[1,"#ffffff","#000000",""];
+umggdpr["shipwreckedvamps.com"]=[1,"#ffffff","#ed1b2f",""];
+umggdpr["udiscovermusic.com"]=[1,"#cccccc","#5a5a5a",""];
+umggdpr["udiscover-music.de"]=[1,"#ffffff","#000000",""];
+umggdpr["andybrownofficial.com"]=[1,"#ffffff","#282828",""];
+umggdpr["underneathanothersky.com"]=[1,"#ffffff","#000000",""];
+umggdpr["roxymusic.co.uk"]=[1,"#ffffff","#000000",""];
+umggdpr["theshiresalbum3.com"]=[1,"#4e5975","",""];
+umggdpr["youareallslaves.com"]=[1,"#ffffff","#000000",""];
+umggdpr["yearsandyears.com"]=[1,"#ffffff","#000000",""];
+umggdpr["imeldamay.co.uk"]=[1,"#ffffff","#000000",""];
+umggdpr["joelcompass.com"]=[1,"#ffffff","#000000",""];
+umggdpr["thevamps.net"]=[1,"#ffffff","#000000",""];
+umggdpr["jpcoopermusic.com"]=[1,"#ffffff","#a8a9a4",""];
+umggdpr["samcalvermusic.com"]=[1,"#ffffff","#2c3539",""];
+umggdpr["kaiserchiefs.com"]=[1,"","#e1b524",""];
+umggdpr["nicolabenedetti.co.uk"]=[1,"#ffffff","#130610",""];
+umggdpr["kikobun.com"]=[1,"#dc7959","#ffb820",""];
+umggdpr["mysteryjets.com"]=[1,"#ffffff","#121012",""];
+umggdpr["mavericksabre.com"]=[1,"#ffffff","#000000",""];
+umggdpr["letsplaypepper.com"]=[1,"#ffffff","#4baace",""];
+umggdpr["lanadelray.com"]=[1,"#eae7de","#a6000d",""];
+umggdpr["kyanmusic.com"]=[1,"#ffffff","#3e6383",""];
+umggdpr["meetthevamps.com"]=[1,"#ffffff","#000000",""];
+umggdpr["melodygardot.co.uk"]=[1,"#ffffff","#000000",""];
+umggdpr["mikasounds.com"]=[1,"#888888","#333333",""];
+umggdpr["mnekofficial.com"]=[1,"#da3187","#7f1934",""];
+umggdpr["moveonupnorthernsoul.com"]=[1,"#ffffff","#000000",""];
+umggdpr["kaliuchis.com"]=[1,"#ffffff","#000000",""];
+umggdpr["onairapp.co.uk"]=[1,"#ffffff","#000000",""];
+umggdpr["polydor.co.uk"]=[1,"#ffffff","#ed1c20",""];
+umggdpr["positivarecords.com"]=[1,"#ffffff","#506da1",""];
+umggdpr["solomongrey.net"]=[1,"#dff0f3","#0d4c64",""];
+umggdpr["teenagedirtbags2.com"]=[1,"#e2000c","#000000",""];
+umggdpr["thediztortion.com"]=[1,"#c6ce60","#000000",""];
+umggdpr["thisisnero.com"]=[1,"#ffffff","#000000",""];
+umggdpr["ulocker.udiscovermusic.com"]=[1,"#ffffff","#000000",""];
+umggdpr["johnmartinofficial.com"]=[1,"#ffffff","#3b3b3b",""];
+umggdpr["vivaldiseasons.com"]=[1,"","#feed01",""];
+umggdpr["wilkinson-music.com"]=[1,"","#f2a48c",""];
+umggdpr["andyandtheoddsocks.com"]=[1,"#fff200","#7045a2",""];
+umggdpr["jaxjones.co.uk"]=[1,"#ffffff","#26cdc1",""];
+umggdpr["ellewatson.com"]=[1,"#aaaf95","#000000",""];
+umggdpr["isaacgraciemusic.com"]=[1,"#ffffff","#2d292a",""];
+umggdpr["fangclubofficial.com"]=[1,"","#f20d3a",""];
+umggdpr["fono.co.uk"]=[1,"#f37434","#000000",""];
+umggdpr["forthope.co"]=[1,"#ffffff","#000000",""];
+umggdpr["georgeharrison.com"]=[1,"#ffffff","#000000",""];
+umggdpr["727548.com"]=[1,"#ffffff","#000000",""];
+umggdpr["mirrorfuries.com"]=[1,"#ffffff","#c2a6ae",""];
+umggdpr["metallicatshirtday.com"]=[1,"#ffffff","#000000",""];
+umggdpr["jarroddickenson.com"]=[1,"#dd2525","#000000",""];
+umggdpr["michaelball.co.uk"]=[1,"#c4ae79","#000000",""];
+umggdpr["mixlist.com"]=[1,"#f20d3a","#262626",""];
+umggdpr["playlist.snowpatrol.com"]=[1,"#ffffff","#262c62",""];
+umggdpr["minimansionsmusic.com"]=[1,"","#ead568",""];
+umggdpr["kidbrunswick.com"]=[1,"#ffffff","#000000",""];
+umggdpr["dollystyle.se"]=[1,"#4b5154","#e798cf",""];
+umggdpr["store.florenceandthemachine.net"]=[1,"#95803d","#fefaee",""];
+umggdpr["tompriorofficial.co.uk"]=[1,"#ffffff","#000000",""];
+umggdpr["jessieware.com"]=[1,"#ffead7","#b38778",""];
+umggdpr["werememberyouthischristmas.com"]=[1,"#ffffff","#000000",""];
+umggdpr["anniemacpresents.com"]=[1,"#ffffff","#000000",""];
+umggdpr["lovesupremefestival.com"]=[1,"#ffffff","#000000",""];
+umggdpr["sundownfestival.seetickets.com"]=[1,"#ffff00","#00e300",""];
+umggdpr["store.digitalstores.co.uk/sexpistols"]=[1,"#8aea35","",""];
+umggdpr["umusic.digital/fmhjzx"]=[1,"","#FFFFFF",""];
+umggdpr["store.universalmusic.com/5sos"]=[1,"#ffffff","#000000",""];
+umggdpr["store.frank-turner.com"]=[1,"","","19px"];
+umggdpr["gruffaloshop.com"]=[1,"","","18px"];
+umggdpr["shop.islandrecordsbeer.com"]=[1,"","","19px"];
+umggdpr["petshopboysshop.co.uk"]=[1,"","","18px"];
+umggdpr["store.universalmusic.com/solo45"]=[1,"","","17px"];
+umggdpr["spandauballetstore.com"]=[1,"","","17px"];
+umggdpr["themanorofficial.com"]=[1,"#ffffff","#aa001e",""];
+umggdpr["shop.virginemi.com/brianfallon"]=[1,"#ffffff","#000000",""];
+umggdpr["shop.virginemi.com/claremaguire"]=[1,"#ffffff","#313131",""];
+umggdpr["samcalvermusic.stage-umg-uk-wp.com"]=[1,"#fffef9","#c8c8c8",""];
+umggdpr["michaelkiwanuka.stage-umg-uk-wp.com"]=[1,"#0080ff","","6px"];
+umggdpr["graug.dev-umg-uk-wp.com"]=[1,"","#FFFFFF",""];
+umggdpr["uat.umusicpub.com"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/uk"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umpemb.com"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umpgclassical.com"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.durand-salabert-eschig.com/fr-fr"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.durand-salabert-eschig.com/en-gb"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.ricordi.com/it-it"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.ricordi.com/de-de"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.ricordi.com/en-us"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/tk"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/us/?global"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/mx"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/latin"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/fr"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/in"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/nashville"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/se"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/ca"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/au"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/nl"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/at"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/de"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/it"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/es"]=[1,"#ffffff","#616161",""];
+umggdpr["uat.umusicpub.com/us"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/uk"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/us"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/es"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/it"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/de"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/at"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/nl"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/au"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/ca"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/se"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/nashville"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/in"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/fr"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/latin"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/mx"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/us/?global"]=[1,"#ffffff","#616161",""];
+umggdpr["umusicpub.com/tk"]=[1,"#ffffff","#616161",""];
+umggdpr["ricordi.com/en-us"]=[1,"#ffffff","#616161",""];
+umggdpr["ricordi.com/de-de"]=[1,"#ffffff","#616161",""];
+umggdpr["ricordi.com/it-it"]=[1,"#ffffff","#616161",""];
+umggdpr["durand-salabert-eschig.com/en-gb"]=[1,"#ffffff","#616161",""];
+umggdpr["durand-salabert-eschig.com/fr-fr"]=[1,"#ffffff","#616161",""];
+umggdpr["umpgclassical.com"]=[1,"#ffffff","#616161",""];
+umggdpr["umpemb.com"]=[1,"#ffffff","#616161",""];
+umggdpr["test.stage-umg-uk-wp.com"]=[1,"#ffffff","#000000",""];
+umggdpr["dizzeerascal.stage-umg-uk-wp.com"]=[1,"","#fefdff",""];
+umggdpr["takethat.com"]=[1,"#5c5c5c","",""];
+umggdpr["umusicpub.com"]=[1,"#ffffff","#616161",""];
+umggdpr["cherylofficial.com"]=[1,"#ffffff","#000000",""];
+umggdpr["rosielowe.com"]=[1,"#ffffff","#447681",""];
+umggdpr["miraamay.com"]=[1,"#ff5233","#182b2f",""];
+umggdpr["mickey90vinyl.com"]=[1,"","#ffe806",""];
+umggdpr["brunswick-online.com"]=[1,"#8c8c8c","",""];
+umggdpr["vangelisnocturne.com"]=[1,"#ffffff","#203c61",""];
+umggdpr["assumeform.com"]=[1,"#ff8040","#000000",""];
+umggdpr["jamiecullum.com"]=[1,"#ffffff","#f86749",""];
+umggdpr["walkingoncars.com"]=[1,"#b7b9b9","#f8f8f6",""];
+umggdpr["maemuller.com"]=[1,"#ffffff","#e8cfd5",""];
+umggdpr["yakband.co.uk"]=[1,"#efeaeb","#aa2330",""];
+umggdpr["donaeoofficial.com"]=[1,"#ffffff","#000000",""];
+umggdpr["donaeo2.stage-umg-uk-wp.com"]=[1,"#ffffff","",""];
+umggdpr["qa.umusicpub.com/uk"]=[1,"#ffffff","#616161",""];
+umggdpr["the1975.stage-umg-uk-wp.com"]=[1,"#ffffff","#000000",""];
+umggdpr["the1975.umg-wp3-dev.com"]=[1,"#ffffff","#000000",""];
+umggdpr["catfishandthebottlemen.com"]=[1,"#ffffff","#000000",""];
+umggdpr["guygarvey.com"]=[1,"#ffffff","#000000",""];
+umggdpr["guygarvey.stage-umg-uk-wp.com"]=[1,"#ffffff","#000000",""];
+umggdpr["subfocus.com"]=[1,"#ffffff","#000000",""];
+umggdpr["jpcoopermusic.stage-umg-uk-wp.com"]=[1,"#ffffff","#000000",""];
+umggdpr["polydor.dev-umg-uk-wp.com"]=[1,"#ffffff","#ed1c20",""];
+umggdpr["polydor.stage-umg-uk-wp.com"]=[1,"#ffffff","#ed1c20",""];
+umggdpr["polydor.umg-uk-wp.com"]=[1,"#ffffff","#ed1c20",""];
+umggdpr["ineversaid.com"]=[1,"#ffffff","#b95153",""];
+umggdpr["rebel-labs.tv"]=[1,"#f9ffff","#34e0cb",""];
+umggdpr["kawalaofficial.com"]=[1,"#efad60","#000000",""];
+umggdpr["hcsponsored.com"]=[1,"#ffffff","#000000",""];
+umggdpr["responsive-qa.umusicpub.com"]=[1,"#ffffff","#616161",""];
+umggdpr["responsive-uat.umusicpub.com"]=[1,"#ffffff","#616161",""];
+umggdpr["sheybaba.com"]=[1,"","#98c2eb",""];
+umggdpr["mhuncho.co.uk"]=[1,"#bebdda","#575da8",""];
+umggdpr["aimeemusicofficial.com"]=[1,"#ffffff","#1c2c43",""];
+umggdpr["ruti-music.com"]=[1,"#ea92c0","#171b38",""];
+umggdpr["raskit.co.uk"]=[1,"#d704f7","#f8f804",""];
+umggdpr["doomdayssociety.com"]=[1,"#ffffff","#5ea4c0",""];
+umggdpr["dev3-tester.lemonadebox.com"]=[1,"","","10px"];
+umggdpr["beloved.mumfordandsons.com"]=[1,"","#faf8e8",""];
+umggdpr["diggad.co.uk"]=[1,"#ffffff","#000000",""];
+umggdpr["theamazons.co.uk"]=[1,"#ffffff","#000000",""];
+umggdpr["calmcollectivemusic.com"]=[1,"","#99d0d3",""];
+umggdpr["labs.pow.io"]=[1,"#e10000","#000000",""];
+umggdpr["howdoyousleep.org"]=[1,"#dca6a2","#000000",""];
+umggdpr["pavarottiofficial.dev-umg-uk-wp.com"]=[1,"","","6px"];
+umggdpr["britishjazzexplosion.com"]=[1,"#ffffff","#000000",""];
+umggdpr["soundofsilence.deccaclassics.com"]=[1,"#ffffff","#000000",""];
+umggdpr["housegospelchoir.com"]=[1,"#ffffff","#000000",""];
+umggdpr["tributeworldwide.tv"]=[1,"#8bfcd1","#7619e0",""];
+umggdpr["moxiandsass.tv"]=[1,"#ff7ce3","#00e2ad",""];
+umggdpr["bred.tv"]=[1,"#ffffff","#000000",""];
+umggdpr["declanjdonovan.com"]=[1,"#52050e","#fdf9e5",""];
+umggdpr["weekofthewaltz2.umg-uk-wp.com"]=[1,"#ffffff","",""];
+umggdpr["dandlion.co.uk"]=[1,"#ffffff","#df9b86",""];
+umggdpr["anaiszero.com"]=[1,"","#829e9f",""];
+umggdpr["samtompkins.com"]=[1,"#dab98e","#000000",""];
+umggdpr["olivialee.com"]=[1,"","#c9c5ba",""];
+umggdpr["aimeemusicofficial.stage-umg-uk-wp.com"]=[1,"#ffffff","#1c2c43","16px"];
+umggdpr["paulsimon.tv"]=[1,"#3d274d","",""];
+umggdpr["movingmountains.deccaclassics.com"]=[1,"#b1d9dc","#101318",""];
+umggdpr["twinatlantic.com"]=[1,"","#fa1715",""];
+umggdpr["preview.umusicpub.com"]=[1,"#ffffff","#616161",""];
+umggdpr["responsive.qa.umusicpub.com"]=[1,"#ffffff","#616161",""];
+umggdpr["qa.umusicpub.com"]=[1,"#ffffff","#616161",""];
+umggdpr["meltyourselfdown.stage-umg-uk-wp.com"]=[1,"#ffffff","",""];
+umggdpr["meltyourselfdown.umg-uk-wp.com"]=[1,"#ffffff","",""];
+umggdpr["meltyourselfdown.com"]=[1,"#ffffff","#000000",""];
+umggdpr["allseanpaul.com"]=[1,"","#009f55",""];
+umggdpr["emilyburnsmusic.co.uk"]=[1,"#ffffff","#e9d5ce",""];
+umggdpr["wauvemusic.com"]=[1,"#ffffff","#000000",""];
+umggdpr["colinthackery.co.uk"]=[1,"","#db414c",""];
+umggdpr["jpcoopermusic.dev-umg-uk-wp.com"]=[1,"#8b8b8b","#000000",""];
+umggdpr["jackgarratt.com"]=[1,"#ffffff","#000000",""];
+umggdpr["testsite.co.uk"]=[1,"","","20px"];
+umggdpr["thevamps2.stage-umg-uk-wp.com"]=[1,"#ffffff","",""];
+umggdpr["sebastianplano.stage-umg-uk-wp.com"]=[1,"#78746d","#000000",""];
+umggdpr["sebastianplano.com"]=[1,"#78746d","#000000",""];
+umggdpr["officialshakka.com"]=[1,"","#fce1ac",""];
+    //custom-end
+    var _umgload = umggdpr.active;
+    var _acd = window.location.hostname.toLowerCase().replace('www.', '');
+    function appendStyle(styles) {
+        var umgcss = document.createElement('style');
+        umgcss.type = 'text/css';
+        umgcss.textContent = styles;
+        document.head.appendChild(umgcss);
+    }
+    appendStyle(".evidon-banner-title, .evidon-banner-message, .evidon-banner-message a{ color:#000000; }");//default
+    if (typeof umggdpr[_acd] !== 'undefined') {
+        if (umggdpr[_acd][0] == 0)
+            _umgload = false;
+        else {
+            var _umggdprcss = "";
+            if (umggdpr[_acd][1].length > 0)
+                _umggdprcss = " .evidon-banner-title, .evidon-banner-message, .evidon-banner-message a{ color:" + umggdpr[_acd][1] + " !important; }";
+            if (umggdpr[_acd][2].length > 0)
+                _umggdprcss += " .evidon-banner { background-color:" + umggdpr[_acd][2] + " !important; }";
+            if (umggdpr[_acd][3].length > 0)
+                _umggdprcss += " .evidon-banner { font-size:" + umggdpr[_acd][3] + " !important; }";
+            if (_umggdprcss.length > 0) appendStyle(_umggdprcss);
+        }
+    }
+    if (!_umgload)
+        console.log('-- UMG: Consent has been deactivated for ' + _acd);
+    else {
+        console.log('-- UMG: Launching Evidon script for ' + _acd);
+        var umg_gdpr_wl = document.createElement("img");
+        umg_gdpr_wl.src = "https://consent.umusic.com/whitelist.gif?domain=" + window.location.hostname.toLowerCase();
+
+        var gdpr = (function (id) {
+            function append(scriptid, url, async) {
+                var d = document, sn = 'script', f = d.getElementsByTagName(sn)[0];
+                if (!f) f = d.head;
+                var s = d.createElement(sn);
+                s.async = true;
+                s.id = scriptid;
+                s.src = url + "?" + (new Date).getTime();
+                f.parentNode.insertBefore(s, f);
+            }
+
+            function getRootDomain() {
+                var parts = window.location.hostname.split('.');
+                if (parts.length === 2) rootDomain = parts[0];
+                else if (parts.length > 2) {
+                    // see if the next to last value is a common tld
+                    var part = parts[parts.length - 2];
+                    if (part === 'com' || part === 'co') {
+                        rootDomain = parts[parts.length - 3]; // go back one more
+                    }
+                    else {
+                        rootDomain = part;
+                    }
+                }
+
+                return rootDomain;
+            }
+
+            window.evidon = {};
+            window.evidon.id = id;
+            var cdn = 'https://c.evidon.com/', rootDomain = getRootDomain(), noticecdn = cdn + 'sitenotice/';
+            append('evidon-notice', noticecdn + 'evidon-sitenotice-tag.js', false);
+            append('evidon-location', cdn + 'geo/country.js', true);
+            append('evidon-themes', noticecdn + id + '/snthemes.js', true);
+            if (rootDomain) append('evidon-settings', noticecdn + id + '/' + rootDomain + '/settings.js', true);
+
+            window.evidon.priorConsentCallback = function () {
+                var waits = document.getElementsByTagName("wait");
+                for (j = 0; j < waits.length; j++) {
+                    var newtag = document.createElement('script')
+                    newtag.textContent = waits[j].textContent;
+                    var attrs = waits[j].attributes;
+                    for (var ii = 0; ii < attrs.length; ++ii) {
+                        if (attrs[ii].nodeName !== 'id') {
+                            newtag.setAttribute(attrs[ii].nodeName, attrs[ii].value);
+                        }
+                    }
+                    document.body.appendChild(newtag);
+                }
+                var iframes = document.getElementsByTagName("iframe");
+                for (jj = 0; jj < iframes.length; jj++) {
+                    var frameAttrs = iframes[jj].attributes;
+                    for (var xx = 0; xx < frameAttrs.length; ++xx) {
+                        if (frameAttrs[xx].nodeName == 'wait') {
+                            iframes[jj].setAttribute('src', frameAttrs[xx].value);
+                            iframes[jj].removeAttribute("wait");
+                        }
+                    }
+                }
+            }
+
+            window.evidon.closeCallback = function () {
+                // this is executed when a user closes a UI element (banner/barrier) without
+                // providing consent.
+            }
+
+            window.evidon.consentWithdrawnCallback = function () {
+                // this is exeucted if the user withdraws consent and elects to
+                // no longer allow technologies to run on the site.
+            }
+        })(5116);
+    }
+}
